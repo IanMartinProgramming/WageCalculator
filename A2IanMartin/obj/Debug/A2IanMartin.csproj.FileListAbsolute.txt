@@ -1,0 +1,10 @@
+C:\Users\owner\source\repos\A2IanMartin\A2IanMartin\bin\Debug\A2IanMartin.exe.config
+C:\Users\owner\source\repos\A2IanMartin\A2IanMartin\bin\Debug\A2IanMartin.exe
+C:\Users\owner\source\repos\A2IanMartin\A2IanMartin\bin\Debug\A2IanMartin.pdb
+C:\Users\owner\source\repos\A2IanMartin\A2IanMartin\obj\Debug\A2IanMartin.csprojAssemblyReference.cache
+C:\Users\owner\source\repos\A2IanMartin\A2IanMartin\obj\Debug\A2IanMartin.WageCalculator.resources
+C:\Users\owner\source\repos\A2IanMartin\A2IanMartin\obj\Debug\A2IanMartin.Properties.Resources.resources
+C:\Users\owner\source\repos\A2IanMartin\A2IanMartin\obj\Debug\A2IanMartin.csproj.GenerateResource.cache
+C:\Users\owner\source\repos\A2IanMartin\A2IanMartin\obj\Debug\A2IanMartin.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\A2IanMartin\A2IanMartin\obj\Debug\A2IanMartin.exe
+C:\Users\owner\source\repos\A2IanMartin\A2IanMartin\obj\Debug\A2IanMartin.pdb
